@@ -1,5 +1,5 @@
 # The-Cyte-Site
-This interactive application is designed to explore comprehensive proteomic data across four different cell types: Pericytes, BMVEC, Hepatocytes, and Astrocytes. Dive into the world of proteins, genes, and their varying expressions in different cell environments.
+This interactive application is designed to explore comprehensive proteomic data across four different cell types. Dive into the world of proteins, genes, and their varying expressions in different cell environments.
 
 Users can navigate to the data analysis section of the application where they can select the gene or protein of interest and the cell types of interest. 
 
